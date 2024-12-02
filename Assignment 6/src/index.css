@@ -1,0 +1,38 @@
+
+body{
+  background-color: rgb(54, 95, 95);
+}
+h2{
+  font-size: 50px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li{
+  margin-bottom: 8px;
+  font-size: 20px;
+ 
+}
+button{
+  height: 30px;
+  width: 50px;
+ background-color: lightblue;
+  border: none;
+  border-radius: 5px;
+  margin-left: 15px;
+
+}
+button:hover{
+  background-color: antiquewhite;
+}
+.Container{
+  background-color: cadetblue;
+  width: 350px;
+  padding: 30px;
+  margin: auto;
+  margin-top: 200px;
+  border-radius: 20px;
+
+ 
+}
+
